@@ -1,6 +1,6 @@
 {
  "Resources" : {
- "HelloBucket" : {
+ "BucketRenato" : {
  "Type" : "AWS::S3::Bucket"
  }
  }
